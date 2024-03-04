@@ -1,7 +1,7 @@
 # 感谢KN指点（隐私问题只标注名字缩略）
 ## 杜比/DTS：
 * AC3/DTS
-* E-AC3/DTS-HD
+* E-AC3/DTS-HDHR
 * TrueHD/DTS-HDMA
 * Atmos/DTS-X
 ## 
