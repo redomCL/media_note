@@ -6,7 +6,7 @@ pause
 
 \\当前特性：
 \\	1.提取轨道0，1：-d 0 -a 1
-\\	2.不提取字幕：-S
+\\	2.不提取视频音频字幕：-D,-A,-S
 \\	2.轨道0，1名称为空：--track-name 0:"" --track-name 1:""
 \\	3.标记轨道0，1为默认轨道：--default-track 0:yes --default-track 1:yes
 \\	4.文件标题为空，原文件名输出：--title "" -o "D:\tmp\test\out\%%~nx.mkv" "%%~x"
